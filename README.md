@@ -13,4 +13,4 @@ The visualizations I created show details on bike station popularity, trip durat
 
 The charts are also interactive! Highlighting any node or data point will provide more details on that facet of the statistic.
 
-View it for yourself here: https://public.tableau.com/app/profile/hays.kronke/viz/CitiBikeHK/TripCountandTimeofDay
+View it for yourself here: https://public.tableau.com/views/CitiBikeHK/TripCountandTimeofDay?:language=en-US&:display_count=n&:origin=viz_share_link
