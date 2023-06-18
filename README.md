@@ -5,7 +5,7 @@ For this project I used Tableau to visualize bike usage around Manhattan using p
 
 Data Source: https://citibikenyc.com/system-data
 
-The visualizations I created show details on bike station popularity, trip duration, and user demographics.
+The visualizations I created show details on bike station popularity, trip duration, user demographics, and more!
 
 ![1](https://github.com/hdkronke/tableau/assets/117773492/4206192d-11e6-4f25-b081-095100c8d1a7)
 
